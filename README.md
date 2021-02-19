@@ -8,7 +8,6 @@ are Grayscale ( 1 channel) while SVHN images are RGB ( 3 channels).
   - Convolutional Neural Networks
   - Multi layer perceptron Netwroks
   - Deep Autoencoder Networks
-  - 
 # Tools
 * TensorFlow - Deep Learning Model
 * pandas - Data Extraction and Preprocessing
